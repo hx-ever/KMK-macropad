@@ -50,7 +50,7 @@ KMK-Based-Macropad/
 * Use your layer key or encoder to switch layers.
 * Modify and re‑flash to update layouts or macros.
 
----
+
 
 ## 📄 License
 
