@@ -10,13 +10,13 @@
 
 ```
 KMK-Based-Macropad/
-├── 3D_Model/          # STL & STEP for case and knob
-├── PCB/               # Gerber files for board fabrication
-├── firmware/          # KMK config & keymap (optional)
-├── .gitignore         # ignore rules
-└── README.md          # this file
+├── 3D_Model/    # 3D models (case, knob)
+├── Firmware/    # KMK config & keymap
+├── Media/       # GIF demo and images
+├── PCB/         # Gerber and KiCad files
+├── LICENSE      # License file
+└── README.md    # This file
 ```
-
 
 ## 🔧 Build Guide
 
