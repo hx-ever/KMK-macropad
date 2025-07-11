@@ -6,7 +6,6 @@
   <img src="Media/demo.gif" alt="Macropad Demo" />
 </p>
 
----
 
 ## 📂 Project Files
 
@@ -19,7 +18,6 @@ KMK-Based-Macropad/
 └── README.md          # this file
 ```
 
----
 
 ## 🔧 Build Guide
 
@@ -45,7 +43,6 @@ KMK-Based-Macropad/
    * Enter bootloader (hold BOOT on XIAO).
    * Copy `firmware.uf2` to the XIAO drive.
 
----
 
 ## 🚀 Usage
 
