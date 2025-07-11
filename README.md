@@ -3,7 +3,7 @@
 **A custom 10‑key macropad** built with a Seeed Studio XIAO RP2040 and KMK firmware. Electronics, PCB, and enclosure are designed in KiCad and 3D‑printed.
 
 <p align="center">
-  <img src="Media/demo.gif" alt="Macropad Demo" width="500"/>
+  <img src="Media/demo.gif" alt="Macropad Demo" width="800"/>
 </p>
 
 
