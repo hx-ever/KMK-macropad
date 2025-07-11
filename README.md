@@ -2,22 +2,6 @@ KMK-Based 10-Key Macropad
 
 A fully custom 10-key macropad built around a Seeed Studio XIAO RP2040 and powered by KMK firmware. All electronics, PCB layouts, and enclosure parts were designed by hand in KiCad and 3D-printed for a seamless, integrated build.
 
-📁 Repository Structure
-
-KMK-Based-Macropad/
-├── 3D_Model/                # STL and STEP files for 3D printing
-│   ├── Knob.stl
-│   ├── Main.stl
-│   ├── Plate.stl
-│   └── hxkeysair_pcb.step   # STEP export of the board model
-├── PCB/                     # Gerber files for PCB fabrication
-│   └── hxkeysair_gerber.zip
-├── firmware/                # (Optional) KMK firmware directory
-│   ├── config.py
-│   └── keymap.py
-├── .gitignore               # Git ignore rules
-└── README.md                # This file
-
 🔧 Hardware Components
 
 Microcontroller: Seeed Studio XIAO RP2040
