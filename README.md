@@ -40,7 +40,6 @@ KMK-Based-Macropad/
    * Install KMK: `pip install kmk`
    * Edit `firmware/config.py` & `keymap.py` as needed.
    * Enter bootloader (hold BOOT on XIAO).
-   * Copy `firmware.uf2` to the XIAO drive.
 
 
 ## 🚀 Usage
